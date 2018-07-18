@@ -1,0 +1,54 @@
+header {
+    padding-top: 100px;
+}
+
+body {
+
+   
+    text-align: justify;
+    font-family: 'Helvetica';
+    background-color: #cba76b;
+    column-count: 2;
+    
+
+    
+}
+a{
+    font-size: 12pt;
+    color: aqua;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color:#fff;
+    letter-spacing: 10px;
+}
+
+
+
+section{
+    padding-top: 30px;
+    text-align: center;
+}
+
+article{
+    font-size: 12pt;
+    line-height: 14pt;
+    padding-right: 50px;
+    padding-top: 20px;
+    font-weight: bold;
+    column-count: 2;
+    
+    
+}
+
+div {
+    padding-top: 30px;
+    padding-right: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+footer {
+    padding-top: 30px;
+    text-align: center;
+}
